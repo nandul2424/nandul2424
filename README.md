@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandul</h1>
-<h3 align="center">A passionate node.js,express.js and next.js backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate backend developer on java ,scala and node.js from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandul2424&label=Profile%20views&color=0e75b6&style=flat" alt="nandul2424" /> </p>
 
